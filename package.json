@@ -1,0 +1,13 @@
+{
+  "name": "0x95404",
+  "version": "1.0.0",
+  "description": "Kernel Alchemy - Vanishing Hypervisor",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
